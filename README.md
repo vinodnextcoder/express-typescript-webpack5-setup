@@ -28,4 +28,4 @@ Try it!! I am happy to hear your feedback or any kind of new features.
 
 
 
-[http://localhost:4000/docs](http://localhost:4000)
+[http://localhost:4000](http://localhost:4000)
