@@ -26,13 +26,6 @@ Try it!! I am happy to hear your feedback or any kind of new features.
 - Create the build `npm run build`
 - Start the application `npm run start:production`
 
-## Project Structure
 
-| Name                              | Description |
-| --------------------------------- | ----------- |
-
-| **src/**                          | Source files |
-
-# The sample api is available at the following url `http://localhost:4000`:  
 
 [http://localhost:4000/docs](http://localhost:4000)
