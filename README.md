@@ -3,8 +3,7 @@
 Skeleton for Node.js applications written in TypeScript
 
 ## Purpose
-Our main purpose with this Skeleton is to start server application with node js and typescript  using webpack.
-Try it!! I am happy to hear your feedback or any kind of new features.
+Our main purpose with this Skeleton is to start server application with node js and typescript using webpack.
 
 ## Common Features
 - Quick start
